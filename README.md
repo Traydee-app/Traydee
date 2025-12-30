@@ -32,4 +32,4 @@ git clone https://github.com/traydee-app/traydee-android.git
 cd traydee
 ```
 ##
-- Traydee © 2025 – All Rights Reserved
+Traydee © 2025 – All Rights Reserved

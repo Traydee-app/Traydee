@@ -18,8 +18,8 @@ Our mission is to simplify trade, streamline inventory, and foster collaboration
 ## 🛠️ Tech Stack
 
 - **Android:** Kotlin + Jetpack Compose / Android SDK
-- **Backend:** Node.js / Express (planned)
-- **Database:** Firebase / SQL Server (depending on module)
+- **Backend:** java
+- **Database:** Firebase + SQLite
 - **CI/CD:** GitHub Actions (Lint, Unit Test, Build)
 - **Version Control:** GitHub (Traydee Organization)
 

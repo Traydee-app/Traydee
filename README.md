@@ -29,7 +29,7 @@ Our mission is to simplify trade, streamline inventory, and foster collaboration
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/traydee-app/traydee-android.git
-cd traydee-android
+cd traydee
 ```
 ##
 - Traydee © 2025 – All Rights Reserved
